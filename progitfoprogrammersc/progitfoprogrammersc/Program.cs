@@ -7,6 +7,7 @@ namespace progitfoprogrammersc
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Added from VS");
         }
     }
 }
