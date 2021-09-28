@@ -10,7 +10,7 @@ namespace progitfoprogrammersc
             Console.WriteLine("Added from VS");
             Console.WriteLine("command line repo");
             Console.WriteLine("staging area");
-            Console.WriteLine("changw");
+            Console.WriteLine("chaw");
         }
     }
 }
