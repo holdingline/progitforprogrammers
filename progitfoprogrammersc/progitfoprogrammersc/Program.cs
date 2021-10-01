@@ -2,11 +2,15 @@
 
 namespace progitfoprogrammersc
 {
-    public class Calculator
+    public class main
     {
         public int Add (int left, int right)
         {
             return left + right;
+        }
+        public int Subtract (int left, int right)
+        {
+            return left - right;
         }
         static void Main(string[] args)
         {
